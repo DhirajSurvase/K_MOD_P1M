@@ -1,7 +1,14 @@
 
-###                                          Kernel Tree for Lenovo P1m (6.0 , 3.18.19)
+### MOD Kernel Tree for Lenovo P1m
 
-![P1m](http://www.smartgizmo.net/wp-content/uploads/2015/10/Lenovo-VIBE-P1m-1.jpg)
+1) Fastcharge-(Testing)
+2) 4 more governers
+    DARKNESS
+    ALUCARD
+    THENEWBEGINNING
+    DARKNESSV5
+3)  ..soon..
+
 
 * Working now:
 1) All lcm drivers work
