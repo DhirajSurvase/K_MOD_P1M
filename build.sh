@@ -21,7 +21,7 @@ export ARCH=arm64 ARCH_MTK_PLATFORM=mt6735
 export KBUILD_BUILD_USER="DhirajMS"
 export KBUILD_BUILD_HOST="Dracarys"
 
-export CROSS_COMPILE=/home/adikhadase044/dhiraj/k/toolchain/bin/aarch64-linux-android-
+export CROSS_COMPILE=/home/younilban/p1m/kmod/toolchain/bin/aarch64-linux-android-
 
 #Defconfig for p1m
 make -C $PWD O=$PWD/out ARCH=arm64 yl6735m_65u_ov_m_defconfig
